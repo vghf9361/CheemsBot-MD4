@@ -63,7 +63,7 @@ global.location = "Sri Lanka,Kurunegala" //ur location
 //bot bomdy 
 global.owner = ['94786807773']
 global.ownertag = '94786807773' //ur tag number
-global.botname = '꧁⃐༺⃝⃝DARK⚔ EAGLE༻⃛𝙱𝙾Bo𝚃꧂' //ur bot name
+global.botname = 'DARK EAGLE BoT' //ur bot name
 global.linkz = "https://www.youtube.com/channel/UC-zE0UENKf8Q1yNeOiumGYg" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.youtube.com/channel/UC-zE0UENKf8Q1yNeOiumGYg" //ur website to be displayed
 global.botscript = 'https://github.com/vghf9361/CheemsBot-MD4' //script link
